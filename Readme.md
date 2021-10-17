@@ -43,3 +43,24 @@ git shortlog
 
 git shortlog -sn
 “Mostra a quantidade de commit e o nome”
+
+git diff
+" Mostra a modificação do arquivo " - OBS: usar esse comando antes de dar um Commit para conferir.
+
+git diff --name-only
+" Mostra o arquivo motivicado 
+
+git commi -am "Colocar o que fez de mudança "
+"so server para arquivos existentes "
+
+git checkout nome do arquivo
+" comando para apagar e voltar antes da edição que foi feita "
+
+git reset --soft --mixed --hard
+" --softA opção moverá tudo (exceto unstagedarquivos) parastaging area
+  --mixed opção moverá tudo para unstaged area
+  --hard opção moverà tudo "
+
+
+
+
