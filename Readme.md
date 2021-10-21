@@ -1,4 +1,4 @@
-# Github
+# Comandos para auxiliar no Git.
 Configura o Git no terminal:
 git config --global user.name “Nome”
 git config --global user.email Email
@@ -64,3 +64,4 @@ git reset --soft --mixed --hard
 
 
 
+# Comandos_Git
